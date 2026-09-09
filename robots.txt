@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fangxinbuzaijia.github.io/bookmark-vault/sitemap.xml
